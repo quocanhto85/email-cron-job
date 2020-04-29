@@ -1,0 +1,21 @@
+{
+  "name": "email",
+  "version": "1.0.0",
+  "description": "An automatic sending email tool",
+  "main": "email.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon email.js"
+  },
+  "author": "Quoc Anh",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "mongodb": "^3.5.6",
+    "node-cron": "^2.0.3",
+    "nodemailer": "^6.4.6",
+    "nodemon": "^2.0.3"
+  }
+}
