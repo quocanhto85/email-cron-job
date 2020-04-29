@@ -22,5 +22,3 @@ A back-end tool for sending instantaneous and automatic email.
 - Sign in your MongoDB Atlas account, create your database name: `Email_Google`
 
 - After that, create 2 collections name: `Config` and `Data`
-
-![Image description](link-to-image)
