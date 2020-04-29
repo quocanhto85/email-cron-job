@@ -1,5 +1,5 @@
 # email-cron-job
-A back-end tool for sending instantaneous and automatic email.
+A back-end tool for sending instantaneous and automatic email, built in Nodejs (Express, MongoDB).
 
 ---
 ## Installation
