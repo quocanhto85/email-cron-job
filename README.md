@@ -13,7 +13,7 @@ A back-end tool for sending instantaneous and automatic email, built in Nodejs (
 
 Enter folder: `cd API`, open the file `sendMail.js`
 
-In line 21 replace the `username` and `<password>` with your MongoDB account informations:
+In line 21, replace the `username` and `<password>` with your MongoDB account informations:
 
 `const uri ="mongodb+srv://username:<password>@cluster0-oyxhr.mongodb.net/test?retryWrites=true&w=majority";`
 
