@@ -3,7 +3,7 @@ A back-end tool for sending instantaneous and automatic email, built in Nodejs (
 
 ---
 ## Installation
-1. Clones a repository to your computer: `git clone https://github.com/Quocanhtp/email-cron-job.git`
+1. Clone a repository to your computer: `git clone https://github.com/Quocanhtp/email-cron-job.git`
 2. Enter folder: `cd email-cron-job `
 3. Install dependencies: `npm install`
 
